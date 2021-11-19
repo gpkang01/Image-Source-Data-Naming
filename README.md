@@ -10,3 +10,6 @@
    Due to my privacy, these files have no any content.
 4. It doesn't have a function to make "create" folder. But it is necessary for log file.
    Please maintains "create" folder. Or add its code.
+5. "up_d_id.txt" file in "setting" folder is for folder key of google driver.
+   If you upload files using this program, it will be made automatically like "001|xxx_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx".
+   But if you make any folder in manual at google drive, you can add its key at "up_d_id.txt" file.
